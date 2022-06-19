@@ -36,6 +36,7 @@ const server = {
       console.log("database connected successfully");
     } catch (error) {
       console.log("failed to connect to db");
+      process.exit(1);
     }
   }
 }
