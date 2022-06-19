@@ -21,7 +21,7 @@
     "build": "tsc",
     "dev": "nodemon ./src/server.ts",
     "startServer": "concurrently \"npm run dev\" \"npm run client\"",
-    "client": "npm start --prefix ../client",
+    "client": "npm start --prefix ../frontend",
     "start": "node ./build/server.js"
   },
   "keywords": [
