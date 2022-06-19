@@ -10,12 +10,14 @@ To set up this project, you need (on Linux):
 
 Once you have these installed, you need to install the project dependencies. Run  
 ```cd backend && npm i```  
+
 setup environment variables  
 ```touch .env```  
 ```MONGOURI=some-mongo-database-uri```  
 
 To start the development server  
 ```npm run dev```  
+
 To start the production server  
 ```npm start```  
 
