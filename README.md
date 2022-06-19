@@ -4,11 +4,9 @@ fig-finance MERN stack Technical Test
 
 #### Backend set up
 To set up this project, you need (on Linux):
-* Clone the project: (https://github.com/kkthecompguy/fig-finance.git) and cd into your backend folder
-* Node (ensure that you install a version that is compatible with React, newer versions 10+)
-* Npm 
+* Clone the project: (https://github.com/kkthecompguy/fig-finance.git)
 
-Once you have these installed, you need to install the project dependencies. Run  
+Once you have cloned, you need to install the project dependencies. Run  
 ```cd backend && npm i```  
 
 setup environment variables  
