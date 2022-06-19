@@ -8,12 +8,15 @@ To set up this project, you need (on Linux):
 * Node (ensure that you install a version that is compatible with React, newer versions 10+)
 * Npm 
 
-Once you have these installed, you need to install the project dependencies. Run 
-```cd backend && npm i```
-To start the development server
-```npm run dev```
-To start the production server
-```npm start```
+Once you have these installed, you need to install the project dependencies. Run  
+```cd backend && npm i```  
+setup environment variables
+```MONGOURI=some-mongo-database-uri```  
+
+To start the development server  
+```npm run dev```  
+To start the production server  
+```npm start```  
 
 #### Frontend setup
 
