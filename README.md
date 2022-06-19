@@ -1,14 +1,6 @@
 # fig-finance
 fig-finance MERN stack Technical Test
-
-
-## Setup/Installation Requirements
-
-This project uses the MERN stack - Mongodb, Express, React and Node.
-
-### Set up your coding environment
-
-The portal's folders at this point are made up of a front end built on React, and a backend built off Node. 
+ 
 
 #### Backend set up
 To set up this project, you need (on Linux):
